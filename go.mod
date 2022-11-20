@@ -1,3 +1,3 @@
-module github.com/foxiSfox/go-my-first-package
+module github.com/foxiSfox/gofirst
 
 go 1.19
